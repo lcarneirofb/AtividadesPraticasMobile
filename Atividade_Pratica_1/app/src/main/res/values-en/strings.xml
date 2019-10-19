@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AtividadesPraticasMobile</string>
+    <string name="calcular">Calculate!</string>
+    <string name="inptEtanol">Alcohol\'s price</string>
+    <string name="inptGasolina">Gas\'s price</string>
+    <string name="txtEtanol">Alcohol</string>
+    <string name="txtGasolina">Gas</string>
+    <string name="txt_resultadoGas">Gas is the best option</string>
+    <string name="txt_resultadoEtanol">Alcohol is the best option</string>
+    <string name="txt_Warning">Please, fill all the fields!</string>
+</resources>

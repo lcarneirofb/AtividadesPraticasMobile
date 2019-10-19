@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AtividadesPraticasMobile</string>
+    <string name="calcular">Calcular!</string>
+    <string name="txtGasolina">Gasolina</string>
+    <string name="txtEtanol">Etanol</string>
+    <string name="inptGasolina">Preço da Gasolina</string>
+    <string name="inptEtanol">Preço do Etanol</string>
+    <string name="txt_resultadoGas">Gasolina é a melhor opção</string>
+    <string name="txt_resultadoEtanol">Etanol é a melhor opção</string>
+    <string name="txt_Warning">Por favor, preencha os dois campos!</string>
+</resources>
